@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Copyright Dr. Jahn von Heys
+
 """ Writes ""Hallo Welt"" to Excel, Powerpoint, Access file.
 
 An advanced version with class and methods.
