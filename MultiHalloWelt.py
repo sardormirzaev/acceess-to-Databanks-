@@ -2,7 +2,7 @@
 """
 Created on Tue Aug 13 14:46:18 2019
 
-@author: U0045119
+@author: Sardor Mirzaev
 """
 # Bibliothek zum Lesen und Schreiben von Datenbanken (SQL)
 import pyodbc
